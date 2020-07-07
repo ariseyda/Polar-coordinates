@@ -9,7 +9,6 @@
 //- pprint prints a polar variable on console in form of (5.0/_30.0). 
 //- pscan prompts user to enter coordinates of polar point. 
 //- pmul computes multiplication of two polar and returns result 
-//- pdiv computes division of one polar to another.
 //Test your function in a program that receives two points in polar from user, computes multiplication and division, and prints result on console in polar form.   
 
 struct polar{
